@@ -7,3 +7,6 @@ podTemplate(containers: [containerTemplate(name: 'maven', image: 'maven', comman
     junit '**/target/surefire-reports/TEST-*.xml'
   }
 }
+
+
+## writing for poll-scm trigger
